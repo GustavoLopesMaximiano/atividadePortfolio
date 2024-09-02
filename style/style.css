@@ -186,6 +186,7 @@ section.ft-works > div{
 section.ft-works h3{
 	font-size: 1.7rem;
 	font-weight: bold;
+	margin: 2vw 0 0 0;
 }
 section.ft-works p span{
 	background-color: #142850;
@@ -196,6 +197,13 @@ section.ft-works p span{
 }
 section.ft-works p.p1{
 	color: #8695A4;
+}
+section.ft-works div p{
+	margin: 1vw 0 1vw 0;
+	padding: 0 10vw 0 0;
+}
+section.ft-works div{
+	margin: 0 3vw 0 0;
 }
 /*===========================================
 				 RODAPÉ
